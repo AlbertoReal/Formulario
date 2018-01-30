@@ -3,7 +3,7 @@
  <question id='profe001'>
   <type>text</type>
   <title>Cual es la frequencia de linea de una red electrica de 220v </title>
-  <answeranswer>50Hz</answer>
+  <answer>50Hz</answer>
  </question>
  <question id='profe002'>
   <type>text</type>
