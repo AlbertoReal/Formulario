@@ -2,82 +2,85 @@
 <questions>
  <question id='profe001'>
   <type>text</type>
-  <titel>Cual es la frequencia de linea de una red electrica de 220v </titel>
-  <answer>50Hz</answer>
+  <title>Cual es la frequencia de linea de una red electrica de 220v </title>
+  <answeranswer>50Hz</answer>
  </question>
  <question id='profe002'>
   <type>text</type>
-  <titel>Si se requiere una tension de +-12V necesitaremos una fuente de tipo</titel>
+  <title>Si se requiere una tension de +-12V necesitaremos una fuente de tipo</title>
   <answer>una fuente de tipo simetrica</answer>
  </question>
   <question id='profe005'>
   <type>select</type>
-  <titel>Cual de las siguientes componentes permite paso de corriente en un solo sentido</titel>
-  <opcio>Diodo</opcio>
-  <opcio>Condensador</opcio> 
-  <opcio>Bobina</opcio>
+  <title>Cual de las siguientes componentes permite paso de corriente en un solo sentido</title>
+  <option>Diodo</option>
+  <option>Condensador</option> 
+  <option>Bobina</option>
   <answer>0</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
  </question>
  <question id='profe006'>
   <type>select</type>
-  <titel>Si queremos una resistencia de 220 ohmios de que colores tendra esta</titel>
-  <opcio>azul azul rojo verde</opcio>
-  <opcio>naranja amarillo azul verde</opcio> 
-  <opcio>rojo rojo negro negro</opcio>
+  <title>Si queremos una resistencia de 220 ohmios de que colores tendra esta</title>
+  <option>azul azul rojo verde</option>
+  <option>naranja amarillo azul verde</option> 
+  <option>rojo rojo negro negro</option>
   <answer>2</answer> <!-- SelectedIndex = 0, 1 ó 2 , 2 vol dir la tercera opciói -->
  </question>
   <question id='profe007'>
   <type>multiple</type>
-  <titel>Cual de la siguientes (pueden ser mas de una) son propiedades de una señal de tipo senoidal</titel>
-  <opcio>Amplitud</opcio>
-  <opcio>Frequencia</opcio> 
-  <opcio>Fase</opcio> 
-  <opcio>Angulo</opcio>
+  <title>Cual de la siguientes (pueden ser mas de una) son propiedades de una señal de tipo senoidal</title>
+  <option>Amplitud</option>
+  <option>Frequencia</option> 
+  <option>Fase</option> 
+  <option>Angulo</option>
   <answer>0</answer>
   <answer>1</answer>
   <answer>2</answer>
  </question>
 <question id='profe008'>
   <type>multiple</type>
-  <titel>Cuales de los siguientes son tipos de transistores</titel>
-  <opcio>NPN</opcio>
-  <opcio>PNP</opcio> 
-  <opcio>VPN</opcio> 
-  <opcio>NPV</opcio>
+  <title>Cuales de los siguientes son tipos de transistores</title>
+  <option>NPN</option>
+  <option>PNP</option> 
+  <option>VPN</option> 
+  <option>NPV</option>
   <answer>0</answer>
   <answer>1</answer>
  </question>
  <question id='profe009'>
   <type>chekbox</type>
-  <titel>Que es y para que se usa un PTR</titel>
-  <opcio>Es un dispositivo que evita las subidas de tension de la red electrica</opcio>
-  <opcio>Es un dispositivo que separa la red telefonica privada del usuario de la de la empresa</opcio> 
-  <opcio>Permite conectar mas de un telefono a una misma linea telefonica</opcio> 
+  <title>Que es y para que se usa un PTR</title>
+  <option>Es un dispositivo que evita las subidas de tension de la red electrica</option>
+  <option>Es un dispositivo que separa la red telefonica privada del usuario de la de la empresa</option> 
+  <option>Permite conectar mas de un telefono a una misma linea telefonica</option>
+  <option>Ninguna de las anteriores</option> 
   <answer>1</answer>
  </question>
 <question id='profe0010'>
   <type>chekbox</type>
-  <titel>cual de los siguientes elementos de seguridad protege a los usuarios.</titel>
-  <opcio>Magnetotermico</opcio>
-  <opcio>Diferencial</opcio> 
-  <opcio>Icp</opcio> 
+  <title>cual de los siguientes elementos de seguridad protege a los usuarios.</title>
+  <option>Magnetotermico</option>
+  <option>Diferencial</option> 
+  <option>Icp</option>
+  <option>Interruptor General</option>
   <answer>1</answer>
  </question>
  <question id='profe003'>
   <type>radius</type>
-  <titel>Si queremos eliminar una señal de una frequencia especifica que tipo de circuito necesitaremos</titel>
-  <opcio>Un filtro eliminabanda</opcio>
-  <opcio>Un filtro pasa bajos</opcio> 
-  <opcio>Un filtro Pasa altos</opcio> 
+  <title>Si queremos eliminar una señal de una frequencia especifica que tipo de circuito necesitaremos</title>
+  <option>Un filtro eliminabanda</option>
+  <option>Un filtro pasa bajos</option> 
+  <option>Un filtro Pasa altos</option> 
+  <option>ninguno de los asnteriores</option> 
   <answer>1</answer>
   <answer>3</answer>
  </question><question id='profe004'>
   <type>radius</type>
-  <titel>Cual de los siguientes componentes no pertenece a un circuito RLC</titel>
-  <opcio>Transistor</opcio>
-  <opcio>Condensador</opcio> 
-  <opcio>Bobina</opcio> 
-  <opcio>Resistencia</opcio>
+  <title>Cual de los siguientes componentes no pertenece a un circuito RLC</title>
+  <option>Transistor</option>
+  <option>Condensador</option> 
+  <option>Bobina</option> 
+  <option>Resistencia</option>
   <answer>0</answer>
  </question>
 </questions>
