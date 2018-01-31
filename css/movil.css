@@ -1,0 +1,76 @@
+body,html{
+	height:100%;
+	padding:0px;
+	margin:0px;
+	background-color: #D9D6D4;
+}
+h3{
+	margin-left: 5%;
+	margin-right: 5%;
+}
+form{
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2%;
+}
+#principal{
+	background-color: #B0BDD5;
+	margin: 5%;
+	border-style: solid;
+	border-color: #FB8E41;
+	border-width: 15px;
+	text-align: center;
+}
+#superior{
+	margin-left: 35%;
+	margin-right: 30%;
+	margin-top: 6%;
+	border-radius: 25px;
+	background-color: #B0BDD5;
+	border-style: solid;
+	border-width: 15px;
+	border-color: #FB8E41;
+	text-align: center;
+}
+
+#radio1{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+	
+}
+#radio2{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+	
+}
+#checkbox1{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+}
+#checkbox2{
+	text-align: left;
+}
+#select1{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+}
+#select2{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+}
+#selectmulti{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+}
+#selectmulti2{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+}
+#texarea1{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+}
+#texarea2{
+	text-align: left;
+	border-bottom: 5px solid #FB8E41;
+}
