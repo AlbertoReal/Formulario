@@ -72,7 +72,7 @@
   <option>Un filtro pasa bajos</option> 
   <option>Un filtro Pasa altos</option> 
   <option>ninguno de los asnteriores</option> 
-  <answer>1</answer>
+  <answer>0</answer>
  </question><question id='profe004'>
   <type>radius</type>
   <title>Cual de los siguientes componentes no pertenece a un circuito RLC</title>
