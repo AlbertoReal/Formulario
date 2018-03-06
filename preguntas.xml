@@ -50,10 +50,11 @@
  <question id='profe009'>
   <type>chekbox</type>
   <title>Que es y para que se usa un PTR</title>
-  <option>Es un dispositivo que evita las subidas de tension de la red electrica</option>
+  <option>Es un dispositivo que instala la compañia telefonica en una instalacion habitual</option>
   <option>Es un dispositivo que separa la red telefonica privada del usuario de la de la empresa</option> 
   <option>Permite conectar mas de un telefono a una misma linea telefonica</option>
   <option>Ninguna de las anteriores</option> 
+  <answer>0</answer>
   <answer>1</answer>
  </question>
 <question id='profe0010'>
@@ -64,6 +65,7 @@
   <option>Icp</option>
   <option>Interruptor General</option>
   <answer>1</answer>
+  <answer>3</answer>
  </question>
  <question id='profe003'>
   <type>radius</type>
