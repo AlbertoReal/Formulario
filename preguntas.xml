@@ -3,12 +3,12 @@
  <question id='profe001'>
   <type>text</type>
   <title>Cual es la frequencia de linea de una red electrica de 220v </title>
-  <answer>50Hz</answer>
+  <answer>50hz</answer>
  </question>
  <question id='profe002'>
   <type>text</type>
   <title>Si se requiere una tension de +-12V necesitaremos una fuente de tipo</title>
-  <answer>una fuente de tipo simetrica</answer>
+  <answer>simetrica</answer>
  </question>
   <question id='profe005'>
   <type>select</type>
@@ -73,7 +73,6 @@
   <option>Un filtro Pasa altos</option> 
   <option>ninguno de los asnteriores</option> 
   <answer>1</answer>
-  <answer>3</answer>
  </question><question id='profe004'>
   <type>radius</type>
   <title>Cual de los siguientes componentes no pertenece a un circuito RLC</title>
